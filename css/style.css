@@ -1,0 +1,52 @@
+body {
+    background-image: url("../assets/background.jpg");
+}
+
+.container {
+    text-align: center;
+    width: 70%;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    padding: 40px 30px 40px 30px;
+    margin-top: 120px;
+    margin-left: 15%;
+}
+
+input {
+    border: none;
+    text-align: right;
+    font-size: 30px;
+    max-width: 100%;
+}
+
+input,
+select {
+    border-radius: 5px;
+}
+
+select {
+    float: left;
+    width: 100%;
+    font-size: 20px;
+}
+
+span {
+    font-size: 30px;
+}
+
+small {
+    font-size: 15px;
+}
+
+#sign {
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        margin-top: 0px;
+        width: 80%;
+        margin-left: 10%;
+    }
+}

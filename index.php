@@ -2,7 +2,7 @@
 require "Api.php";
 $currency = 'USD-BRL';
 $price = '1';
-$data = Api::cost($currency, $price);
+$data = Price::cost($currency, $price);
 ?>
 
 <!DOCTYPE html>

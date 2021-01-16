@@ -39,7 +39,7 @@ The following tools were used in the construction of the project:
 - JavaScript/jQuery
 - HTML
 - CSS
-- Bootstrap
+- Bootstra
 
 ### Author
 ---

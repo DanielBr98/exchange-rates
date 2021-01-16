@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a target="blank" href="https://danielbrasil.netlify.app/">🔗 Exchange Rates</a>
+    <a target="blank" href="http://bit.ly/exchange-rates-br">🔗 Exchange Rates</a>
 </h1>
 <p align="center">💲 Consumption of a RESTful API to calculate exchange rates.</p>
 
@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">
-  <a target="blank" href="https://danielbrasil.netlify.app/"><img alt="Exchange Rates" title="Exchange Rates" src="https://user-images.githubusercontent.com/43521892/104787460-5c361780-576e-11eb-89be-02cd3c662e2a.png"/></a>
+  <a target="blank" href="http://bit.ly/exchange-rates-br"><img alt="Exchange Rates" title="Exchange Rates" src="https://user-images.githubusercontent.com/43521892/104787460-5c361780-576e-11eb-89be-02cd3c662e2a.png"/></a>
 </h1>
 
 ### Prerequisites

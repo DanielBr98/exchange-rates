@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://danielbrasil.netlify.app/">🔗 Exchange Rates</a>
+    <a target="blank" href="https://danielbrasil.netlify.app/">🔗 Exchange Rates</a>
 </h1>
 <p align="center">💲 Consumption of a RESTful API to calculate exchange rates.</p>
 

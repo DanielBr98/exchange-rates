@@ -50,7 +50,7 @@ The following tools were used in the construction of the project:
     <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43521892?s=460&u=a046dc36c1027811da0f562d64ea2fab5cab97de&v=4" width="100px;" alt="Daniel"/><a/><br>
 <a href="https://danielbrasil.netlify.app/" title="Daniel Brasil"><small>Daniel Brasil 💥</small></a>
 
-Made by Daniel Brasil 👋🏽 Contact me!
+Created by Daniel Brasil 👋🏽 Contact me!
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://danielbrasil.netlify.app/)](https://danielbrasil.netlify.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-brasil-de-lima-a9b61a143/)](https://www.linkedin.com/in/daniel-brasil-de-lima-a9b61a143/) 

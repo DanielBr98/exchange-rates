@@ -13,6 +13,7 @@
   <a target="blank" href="http://bit.ly/exchange-rates-br"><img alt="Exchange Rates" title="Exchange Rates" src="https://user-images.githubusercontent.com/43521892/104787460-5c361780-576e-11eb-89be-02cd3c662e2a.png"/></a>
 </h1>
 
+---
 ### Prerequisites
 
 Before you begin, you will need to have the following tools installed on your machine:
@@ -31,6 +32,7 @@ $ cd exchange-rates
 # To access the project in the browser, activate the Apache server and then go to <http://localhost/exchange-rates/>
 ```
 
+---
 ### Technologies
 
 The following tools were used in the construction of the project:
@@ -41,16 +43,15 @@ The following tools were used in the construction of the project:
 - CSS
 - Bootstrap
 
-### Author
 ---
+### Author
 
 <a href="https://danielbrasil.netlify.app/">
- <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43521892?s=460&u=a046dc36c1027811da0f562d64ea2fab5cab97de&v=4" width="100px;" alt="Daniel"/>
- <b/><br>
-  <a href="https://danielbrasil.netlify.app/" title="Daniel Brasil"><small>Daniel Brasil 💥</small></a>
-
+    <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43521892?s=460&u=a046dc36c1027811da0f562d64ea2fab5cab97de&v=4" width="100px;" alt="Daniel"/><a/><br>
+<a href="https://danielbrasil.netlify.app/" title="Daniel Brasil"><small>Daniel Brasil 💥</small></a>
 
 Made by Daniel Brasil 👋🏽 Contact me!
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://danielbrasil.netlify.app/)](https://danielbrasil.netlify.app/) [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-brasil-de-lima-a9b61a143/)](https://www.linkedin.com/in/daniel-brasil-de-lima-a9b61a143/) 
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&link=https://danielbrasil.netlify.app/)](https://danielbrasil.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-brasil-de-lima-a9b61a143/)](https://www.linkedin.com/in/daniel-brasil-de-lima-a9b61a143/) 
 [![Outlook Badge](https://img.shields.io/badge/-danielbrasild10@hotmail.com-blue?style=flat-square&link=mailto:danielbrasild10@hotmail.com)](mailto:danielbrasild10@hotmail.com)

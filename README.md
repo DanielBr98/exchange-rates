@@ -4,11 +4,7 @@
 <p align="center">💲 Consumption of a RESTful API to calculate exchange rates.</p>
 
 <p align="center">
- <a href="#goal">Goal</a> •
- <a href="#roadmap">Roadmap</a> • 
  <a href="#technologies">Technologies</a> • 
- <a href="#contribution">Contribution</a> • 
- <a href="#license">License</a> • 
  <a href="#author">Author</a>
 </p>
 

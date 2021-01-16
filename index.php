@@ -1,5 +1,5 @@
 <?php
-require "Api.php";
+require "Price.php";
 $currency = 'USD-BRL';
 $price = '1';
 $data = Price::cost($currency, $price);

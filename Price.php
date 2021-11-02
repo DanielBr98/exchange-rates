@@ -4,7 +4,13 @@ class Price
     static function cost($a, $b)
     {
         $url = "https://economia.awesomeapi.com.br/$a";
-        $obj = json_decode(file_get_contents($url), true);
+        $arrContextOptions=array(
+            "ssl"=>array(
+                "verify_peer"=>false,
+                "verify_peer_name"=>false,
+            ),
+        );
+        $obj = json_decode(file_get_contents(($url), true, stream_context_create($arrContextOptions)));
 
         foreach ($obj as $values) {
             foreach ($values as $key => $value) {

@@ -1,5 +1,8 @@
-<h1 align="center">
+<!--<h1 align="center">
     <a target="blank" href="http://bit.ly/exchange-rates-br">🔗 Exchange Rates</a>
+</h1>-->
+<h1 align="center">
+    Exchange Rates
 </h1>
 <p align="center">💲 Consumption of a RESTful API to calculate exchange rates.</p>
 
@@ -9,8 +12,11 @@
  <a href="#author">Author</a>
 </p>
 
-<h1 align="center">
+<!--<h1 align="center">
   <a target="blank" href="http://bit.ly/exchange-rates-br"><img alt="Exchange Rates" title="Exchange Rates" src="https://user-images.githubusercontent.com/43521892/104787460-5c361780-576e-11eb-89be-02cd3c662e2a.png"/></a>
+</h1>-->
+<h1 align="center">
+  <img alt="Exchange Rates" title="Exchange Rates" src="https://user-images.githubusercontent.com/43521892/104787460-5c361780-576e-11eb-89be-02cd3c662e2a.png"/>
 </h1>
 
 ---

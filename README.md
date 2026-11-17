@@ -30,10 +30,10 @@ Besides, it is good to have an editor to work with the code like [VSCode](https:
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/DanielBr98/exchange-rates.git>
+git clone https://github.com/DanielBr98/exchange-rates.git
 
 # Access the project folder on terminal/cmd
-$ cd exchange-rates
+cd exchange-rates
 
 # To access the project in the browser, activate the Apache server and then go to <http://localhost/exchange-rates/>
 ```
